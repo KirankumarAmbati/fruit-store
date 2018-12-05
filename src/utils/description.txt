@@ -1,0 +1,31 @@
+
+Description:
+  Create a single page application showcasing your new online store utilizing React/Redux or vanilla JS.
+
+Requirements:
+  1. Create the application based on the design. Accuracy counts.
+
+  2. Display each item found in the "store_items.json" file. Each item should show the name, image, price, quantity (total number of each item remaining).
+
+  3. Display a cart on the same page which lists the added items.
+    - the shopping cart should include:
+        1. names of items.
+        2. price of item.
+        3. total cost of all items in the cart.
+        3. a way to remove the item from the cart.
+        
+	(below 4-5 are optional, but if attempted please ensure quality)
+        4. toggle to increase / decrease quantity.
+          - when increasing the quantity be sure to not go over the available quantity of each item!
+        5. confirm purchase button that clears out the cart.
+          - when confirming the purchase, update the quantity values in the list of items.
+
+* Helpful Hints:
+	- UI and UX count! Imagine this was a design you need to translate into code.
+	- Expected cart functionality should not be buggy or incomplete. 
+	- People view things on different devices.
+	- How you handle implied ux will also be evaluated.
+
+Let us see your awesome store!:
+  Once complete, please send a github link or a zip of your project files when completed. 
+
